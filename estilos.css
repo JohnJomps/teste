@@ -1,0 +1,12 @@
+body{
+	background-image: url(imagens/foto1.jpg);
+	background-color: black;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: right top; 
+	background-size: 350px 500px;
+}
+
+.principal{
+	height: 50
+}
